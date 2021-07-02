@@ -11,3 +11,9 @@ p{
     font-family: verdana;
     font-size: 20px;
 }
+
+header{
+    width: 1600px;
+    height: 550px;
+    background:url(rsz_mosaic-amp.jpg);
+}
